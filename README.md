@@ -4,7 +4,7 @@ Hi 👋 My name is Pragyanshu Pushker
 Web Developer
 -------------
 
-I'm a passionate Software Developer focused on building clean, efficient, and user-friendly applications. I specialize in \*\*frontend development\*\* using \*\*React.js\*\*, \*\*Next.js\*\*, and \*\*Tailwind CSS\*\*, and I'm always exploring new technologies to level up my skills.
+I'm a passionate Software Developer focused on building clean, efficient, and user-friendly applications. I specialize in frontend development using React.js, Next.js, and Tailwind CSS, and I'm always exploring new technologies to level up my skills.
 
 * 🌍  I'm based in New Delhi, India
 * ✉️  You can contact me at [pragyanshupushker@gmail.com](mailto:pragyanshupushker@gmail.com)
